@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShacoraRene
-- 👀 I’m interested in becoming one of the following, an SRE, Cloud Engineer, Developer Advocate, or an Engineer 
+- 👀 I’m interested in becoming one of the following, an SRE, Cloud Engineer, Developer Advocate, or a software engineer.  
 - 🌱 I’m currently learning Coding fundamentals, C++, and AWS. I've been exposed to Python, Java, Kubernettes, and Docker. 
 - 💞️ I’m looking to collaborate on small projects to help build my skills
 - 📫 How to reach me [...](https://www.linkedin.com/in/shacora-r-reyes-srr1993/)
